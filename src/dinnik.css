@@ -62,7 +62,7 @@ main {
   grid-template-columns: calc(2rem + var(--dk-outer-padding) * 2) 1fr;
   margin: 0;
   padding: 0;
-  background: var(--oksolar-background);
+  background: var(--oksolar-text-red);
   color: var(--oksolar-text);
   /* caret-color: var(--oksolar-text-emph); */
 }
